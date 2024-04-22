@@ -6,7 +6,7 @@ public class StepTracker
  ArrayList<Integer>;
  public StepTracker(int aa)
  {
-  fred = new ArrayList<Integer>()
+  fred = new ArrayList<Integer>();
   minSteps = aa;
   activeDays = 0;
  }
