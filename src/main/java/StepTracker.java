@@ -14,7 +14,7 @@ public class StepTracker
  {
   if(steps >= minSteps)
   {
-   activeDay++:
+   activeDay++;
   }
   fred.add(steps);
  }
