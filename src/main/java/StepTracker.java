@@ -3,7 +3,7 @@ public class StepTracker
 {
  /* to be implemented here */
  int minSteps, activeDay;
- ArrayList<Integer>;
+ ArrayList<Integer> fred;
  public StepTracker(int aa)
  {
   fred = new ArrayList<Integer>();
