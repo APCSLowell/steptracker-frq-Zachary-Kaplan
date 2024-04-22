@@ -8,7 +8,7 @@ public class StepTracker
  {
   fred = new ArrayList<Integer>();
   minSteps = aa;
-  activeDays = 0;
+  activeDay = 0;
  }
  public void addDailySteps(int steps)
  {
