@@ -25,9 +25,9 @@ public class StepTracker
  public double averageSteps()
  {
   double sum = 0;
-  for(int i =0; i < fred.size(); i++)
+  for(int i: fred)
    {
-    sum+= fred.get(i);
+    sum+= i;
    }
   return sum/fred.size();
  }
