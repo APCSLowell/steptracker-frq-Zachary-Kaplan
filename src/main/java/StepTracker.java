@@ -29,6 +29,7 @@ public class StepTracker
    {
     sum+= i;
    }
-  return sum/fred.size();
+  sum /= fred.size();
+  return sum;
  }
 } 
