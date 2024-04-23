@@ -2,8 +2,8 @@ import java.util.ArrayList;
 public class StepTracker
 {
  /* to be implemented here */
- int minSteps, activeDay;
- ArrayList<Integer> fred;
+ private int minSteps, activeDay;
+ private ArrayList<Integer> fred;
  public StepTracker(int aa)
  {
   fred = new ArrayList<Integer>();
